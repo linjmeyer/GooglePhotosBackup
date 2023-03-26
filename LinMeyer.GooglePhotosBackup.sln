@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{69D543DC-3935-4B7B-8EEB-F751FEE26817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinMeyer.GooglePhotosBackup.Asp", "src\LinMeyer.GooglePhotosBackup.Asp\LinMeyer.GooglePhotosBackup.Asp.csproj", "{0BB802B0-B6A9-4DE1-A8A1-D76EB429F3E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB802B0-B6A9-4DE1-A8A1-D76EB429F3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB802B0-B6A9-4DE1-A8A1-D76EB429F3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB802B0-B6A9-4DE1-A8A1-D76EB429F3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB802B0-B6A9-4DE1-A8A1-D76EB429F3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BB802B0-B6A9-4DE1-A8A1-D76EB429F3E9} = {69D543DC-3935-4B7B-8EEB-F751FEE26817}
+	EndGlobalSection
+EndGlobal
