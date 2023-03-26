@@ -17,4 +17,7 @@ using(var migrationDbContext = serviceScope.ServiceProvider.GetRequiredService<S
 {
     migrationDbContext.Database.Migrate();
 }
+
+app.MapGet("/", () => "LinMeyer.GooglePhotosBackup is healthy");
+
 app.Run();
